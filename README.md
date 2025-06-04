@@ -65,7 +65,7 @@ python alerta_gesto_pose.py
 
 ---
 
-## ⚙️ Comportamento do Sistema
+## Comportamento do Sistema
 
 * Desenha uma **linha azul** horizontal indicando a altura dos ombros.
 * Rastrea a mão visível (direita ou esquerda) e detecta movimentos alternados **acima da linha azul**.
@@ -191,8 +191,13 @@ if __name__ == "__main__":
     main()
 ```
 ---
-
+Video Pitch:
+https://youtu.be/_1F7okvuNBo
+---
 ##Nome e rm dos integrantes
+---
 Adriano Lopes rm98574
+---
 Henrique de Brito rm
+---
 Rodrigo Aparecido rm
