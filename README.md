@@ -190,14 +190,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
----
+
 Video Pitch:
-https://youtu.be/_1F7okvuNBo
 ---
-##Nome e rm dos integrantes
+*https://youtu.be/_1F7okvuNBo
+
+Nome e rm dos integrantes
 ---
-Adriano Lopes rm98574
----
-Henrique de Brito rm
----
-Rodrigo Aparecido rm
+*Adriano Lopes rm98574
+*Henrique de Brito rm
+*Rodrigo Aparecido rm
