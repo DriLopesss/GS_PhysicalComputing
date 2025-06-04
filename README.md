@@ -197,6 +197,6 @@ Video Pitch:
 
 Nome e rm dos integrantes
 ---
-*Adriano Lopes rm98574
-*Henrique de Brito rm
-*Rodrigo Aparecido rm
+*Adriano Lopes rm 98574
+*Henrique de Brito rm 98831
+*Rodrigo Aparecido rm 98326
