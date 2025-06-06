@@ -1,10 +1,5 @@
-### GS_PhysicalComputing
+## `GS_PhysicalComputing`
 ---
-
-##  `README.md`
-
-
-
 **Sistema de Alerta por Gesto de Emergência com MediaPipe Pose**
 
 ---
@@ -191,12 +186,13 @@ if __name__ == "__main__":
     main()
 ```
 
-Video Pitch:
----
+## Video Pitch:
 *https://youtu.be/_1F7okvuNBo
 
-Nome e rm dos integrantes
----
-*Adriano Lopes rm 98574
-*Henrique de Brito rm 98831
-*Rodrigo Aparecido rm 98326
+## Nome e rm dos integrantes
+
+Adriano Lopes rm 98574
+
+Henrique de Brito rm 98831
+
+Rodrigo Aparecido rm 98326
