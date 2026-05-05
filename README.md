@@ -187,7 +187,7 @@ if __name__ == "__main__":
 ```
 
 ## Video Pitch:
-*https://youtu.be/_1F7okvuNBo
+*(https://img.youtube.com/vi/_1F7okvuNBo/0.jpg)](https://www.youtube.com/watch?v=_1F7okvuNBo)
 
 ## Nome e rm dos integrantes
 
